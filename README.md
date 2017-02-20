@@ -11,11 +11,11 @@ See [mal-vi.com](http://www.mal-vi.com/what/orl-clinic)
 How i get the plan:
 
 * grabed the image from the Mal Vi project 
-* converted a good one in B&W ![original_wall_BW.jpg](source/original_wall_BW.jpg)
-* "extended" the image to get correct scaling ![original_wall_BW_extended.jpg](original_wall_BW_extended.jpg)
+* converted a good one in B&W [source/original_wall_BW.jpg]
+* "extended" the image to get correct scaling [source/original_wall_BW_extended.jpg]
 * done an estimation of the wall lenght then space between lamelles (6/7cm)
-* created a Lamelle_mesure.ods file to store date
-* created a data file to store some values data.dat
+* created a Lamelle_mesure.ods file to store data (first draft) [Lamelle_mesure.ods]
+* created a plot data file to store some values data.dat
 * created a plot file to see the result
 * as this was a bit "chaotic" and not smooth i used an sbezier function
 * with my wife we has done some adjustment to increase/decrease some curves
