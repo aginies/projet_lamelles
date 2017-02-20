@@ -9,10 +9,10 @@ See [mal-vi.com](http://www.mal-vi.com/what/orl-clinic)
 ## Goal
 
 Get this on a 660 cm wall at home. This will be 98 pieces of cutted oak.
-Estimated effort: 140 hours.
+Estimated effort: 140 hours. Estimated budget: tools ~= 600€, wood: 1700€
 This will be done in several phases:
 1. get the data from the original idea
-2. tracing the curve on all lamelles
+2. tracing the curve on all lamelles (98)
 3. cut the oak
 4. adjust and correct the curve
 5. sanding
@@ -35,7 +35,7 @@ How i get the plan:
 * when the final layout was nice, i extracted the value from the graph
 * with the value i was able to get lamelles lenght
 * maximum width will be 20cm, minimal width will 5.5cm
-* create some pre-calibrated wedge (from 13.5cm to 3cm) for the curve
+* create some pre-calibrated wedge (from 13.5cm to 3cm) for the curve to facilitate the tracing
 
 
 ## Buying 
@@ -61,7 +61,7 @@ How i get the plan:
 
 ## Result
 
-**WIP**
+Some photo of the current status. It's **WIP**
 
 ![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_02.jpg)
 
