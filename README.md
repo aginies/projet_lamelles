@@ -1,7 +1,8 @@
 ## Lamelles
 
-original idea from the Mal Vi architecte.
-See sub directory *source*
+Original idea from the Mal Vi architect.
+
+See [http://www.mal-vi.com/what/orl-clinic]
 
 ![source](https://github.com/aginies/projet_lamelles/blob/master/source/general_idea.jpg)
 
