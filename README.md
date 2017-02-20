@@ -6,6 +6,8 @@ See [mal-vi.com](http://www.mal-vi.com/what/orl-clinic)
 
 ![source](https://github.com/aginies/projet_lamelles/blob/master/source/general_idea.jpg)
 
+'''WIP'''
+
 ## Howto
 
 How i get the plan:
@@ -47,6 +49,8 @@ How i get the plan:
 * meter
 
 ## Result
+
+'''WIP'''
 
 ![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_02.jpg)
 
