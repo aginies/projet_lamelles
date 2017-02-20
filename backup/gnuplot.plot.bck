@@ -1,0 +1,53 @@
+#set terminal jpeg #size 660,220
+set multiplot layout 1,1 rowsfirst
+
+set yrange [-125:125]
+set view 5,15
+set zrange [0:5]
+#set grid z
+#set grid y 
+set xlabel 'Mur L'
+set ylabel 'H'
+set zlabel 'P'
+#set style data lines
+
+set ticslevel 0
+
+#set dgrid3d ,,
+datadat=system("echo $DATA")
+
+#splot sum = init(0) \
+#    datadat using 1:(avg4($3)):($5-2) with filledcurves, \
+#    '' using 1:(avg4($4)):($5-2) with filledcurves, \
+#    '' using 1:($3+$4):5 with filledcurves,
+
+#set samples 20, 20
+#set isosamples 200, 200
+#set style data lines
+
+#set origin 0,0.5
+#set size 1,0.5
+
+i=0
+h=0
+splot datadat using 1:($3):($5-1.5):h with filledcurves fc 1 t 'border up', \
+    for [i=1:10:5] '' using 1:(y1=$3-i,(y1 > 0) ? y1 : 1/0):(h1=$5-0.5, (h1>0) ? h1 : 0) with lines ls 1 notitle, \
+    for [i=1:40:5] '' using 1:(y1=$3-i,(y1 > 0) ? y1 : 1/0):(h1=$5-0.5, (h1>0) ? h1 : 0) with lines ls 1 notitle, \
+    for [i=1:80:5] '' using 1:(y1=$3-i,(y1 > 0) ? y1 : 1/0):(h1=$5-1, (h1>0) ? h1 : 0) with lines ls 1 notitle, \
+    for [i=1:90:5] '' using 1:(y1=$3-i,(y1 > 0) ? y1 : 1/0):(h1=$5-1.5, (h1>0) ? h1 : 0) with lines ls 1 notitle, \
+    for [i=1:100:5] '' using 1:(y1=$3-i,(y1 > 0) ? y1 : 1/0):(h1=$5-1, (h1>0) ? h1 : 0) with lines ls 1 notitle, \
+    for [i=1:160:5] '' using 1:(y1=$3-i,(y1 > 0) ? y1 : 1/0):(h1=$5-0.5, (h1>0) ? h1 : 0) with lines ls 1 notitle, \
+    '' using 1:($4):h with filledcurves title 'border down', \
+    for [i=1:200] '' using 1:(y2=$4+i,(y2 < 0) ? y2 : 1/0):($5-2) with lines ls 1 notitle, \
+    '' using 1:($3+$4):5 with filledcurves title 'center', 
+
+
+#set origin 0,0
+#set size 1,0.5
+#plot datadat using 1:3 smooth sbezier, '' using 1:4 smooth sbezier,
+
+#plot datadat using 1:3:4 with filledcurves,
+
+pause 1
+#reread
+replot

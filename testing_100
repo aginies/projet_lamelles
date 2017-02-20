@@ -1,0 +1,6 @@
+#!/bin/sh
+
+export DATA="lamelle_data_sbezier_100.dat"
+
+gnuplot -persist gnuplot2.plot
+
