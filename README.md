@@ -3,6 +3,8 @@
 original idea from the Mal Vi architecte.
 See sub directory *source*
 
+![source][https://github.com/aginies/projet_lamelles/blob/master/source/general_idea.jpg]
+
 ## Howto
 
 How i get the plan:
@@ -22,7 +24,7 @@ How i get the plan:
 
 ## Buying 
 
-* 33 wook planks 250 x 60 cm
+* 33 wook planks of oak 250 x 60 cm
 * cut by 3 = 99 wook planks 250 x 19.8 cm
 
 ## Tracing
@@ -33,6 +35,6 @@ How i get the plan:
 
 ## Result
 
-[[]]
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_02.jpg)
 
-[[]]
+
