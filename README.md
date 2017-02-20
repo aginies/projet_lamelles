@@ -28,7 +28,7 @@ How i get the plan:
 ## Tracing
 
 * one Aluminium blade 2.5 cm x 200 cm
-* [[]]
+* [[https://github.com/aginies/projet_lamelles/blob/master/images/tracing.jpg]]
 
 ## Result
 
