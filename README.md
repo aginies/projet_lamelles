@@ -3,7 +3,7 @@
 original idea from the Mal Vi architecte.
 See sub directory *source*
 
-![source][https://github.com/aginies/projet_lamelles/blob/master/source/general_idea.jpg]
+![source](https://github.com/aginies/projet_lamelles/blob/master/source/general_idea.jpg)
 
 ## Howto
 
