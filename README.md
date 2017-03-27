@@ -64,6 +64,6 @@ How i get the plan:
 
 Some photo of the current status. It's **WIP**
 
-![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_02.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_03.jpg)
 
 
