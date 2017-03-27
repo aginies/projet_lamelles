@@ -13,7 +13,7 @@ Estimated effort: 140 hours. Estimated budget: tools ~= 600€, wood: 1700€
 This will be done in several phases:
 
 1.  get the data from the original idea
-2.  tracing the curve on all lamelles (98)
+2.  tracing the curve on all lamelles (~98)
 3.  cut the oak
 4.  adjust and correct the curve
 5.  sanding
@@ -31,8 +31,8 @@ How i get the plan:
 * created a Lamelle_mesure.ods file to store data [first draft](Lamelle_mesure.ods)
 * created a plot data file to store some values [data](data.dat)
 * created a plot file to see the result
-* with my wife we has done some adjustment to increase/decrease some curves, using extreme value, so the initial table was no more usable
-* as this was a bit "chaotic" in term of value, and not smooth i used an sbezier function in gnuplot
+* with my wife we have done some adjustment to increase/decrease some curves, using extreme value, so the initial table was no more usable
+* as this was a bit "chaotic" in term of value, and not "smooth" values i used an sbezier function in gnuplot
 * when the final layout was nice, i extracted the value from the graph
 * with the value i was able to get lamelles lenght
 * maximum width will be 20cm, minimal width will 5.5cm
@@ -48,7 +48,7 @@ How i get the plan:
 ## Tracing
 
 * one Aluminium blade 2.5 cm x 200 cm
-* lot of clamps
+* lot of clamps (each 0.5cm)
 
 ![tracing](https://github.com/aginies/projet_lamelles/blob/master/images/tracing.jpg)
 
@@ -62,7 +62,7 @@ How i get the plan:
 
 ## Result
 
-Some photo of the current status. It's **WIP**
+Some photo of the current status. It's **WIP** **42/98**
 
 ![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_03.jpg)
 
