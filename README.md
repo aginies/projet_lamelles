@@ -62,8 +62,8 @@ How i get the plan:
 
 ## Result
 
-Some photo of the current status. It's **WIP** **42/98**
+Some photo of the current status. It's **WIP** **52/98**
 
-![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_03.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_04.jpg)
 
 
