@@ -13,7 +13,7 @@ Estimated effort: 140 hours. Estimated budget: tools ~= 600€, wood: 1700€
 This will be done in several phases:
 
 1.  ~~get the data from the original idea~~
-2.  ~~tracing the curve on all lamelles (~96)~~
+2.  ~~tracing the curve on all lamelles (96)~~
 3.  ~~cut the oak~~
 4.  adjust and correct the curve
 5.  sanding
