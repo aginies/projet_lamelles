@@ -8,13 +8,13 @@ See [mal-vi.com](http://www.mal-vi.com/what/orl-clinic) (this site is really not
 
 ## Goal
 
-Get this on a 660 cm wall at home. This will be 98 pieces of cutted oak.
+Get this on a 660 cm wall at home. This will be ~96 pieces of cutted oak.
 Estimated effort: 140 hours. Estimated budget: tools ~= 600€, wood: 1700€
 This will be done in several phases:
 
-1.  get the data from the original idea
-2.  tracing the curve on all lamelles (~98)
-3.  cut the oak
+1.  ~~get the data from the original idea~~
+2.  ~~tracing the curve on all lamelles (~96)~~
+3.  ~~cut the oak~~
 4.  adjust and correct the curve
 5.  sanding
 6.  varnish the oak
@@ -62,9 +62,10 @@ How i get the plan:
 
 ## Result
 
-Some photo of the current status. It's **WIP** **77/98** done
+Photos of the current status. It's **96/96** done
 
-![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_05.jpg)
-![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_06.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_07.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_08.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_09.jpg)
 
 
