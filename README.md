@@ -56,13 +56,17 @@ How i get the plan:
 
 * right saw
 * jigsaw
-* sandpaper
+* sandpaper (40/80/120/180/280)
 * drill
 * meter
 
 ## Result
 
-Photos of the current status. It's **96/96** done
+Photos of the current status.
+
+* Cutting: **97/97**
+* Sanding: **35/97**
+* Varnish **0/97**
 
 ![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_10.jpg)
 ![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_13.jpg)
