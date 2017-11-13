@@ -64,8 +64,8 @@ How i get the plan:
 
 Photos of the current status. It's **96/96** done
 
-![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_07.jpg)
-![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_08.jpg)
-![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_09.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_10.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_11.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_12.jpg)
 
 
