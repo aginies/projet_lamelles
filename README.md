@@ -64,12 +64,14 @@ How i get the plan:
 
 Photos of the current status.
 
-* Cutting: **97/97**
-* Sanding: **35/97**
-* Varnish **0/97**
+* Cutting: **95/95**
+* Sanding: **95/95**
+* Varnish **95/95**
+* fix them on wall **79/95**
 
-![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_10.jpg)
 ![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_13.jpg)
-![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_12.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_14.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_15.jpg)
+![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_16.jpg)
 
 
