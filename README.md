@@ -67,7 +67,7 @@ Photos of the current status.
 * Cutting: **95/95**
 * Sanding: **95/95**
 * Varnish **95/95**
-* fix them on wall **79/95**
+* Fix them on wall **79/95**
 
 ![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_13.jpg)
 ![result](https://github.com/aginies/projet_lamelles/blob/master/images/result_14.jpg)
