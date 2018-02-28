@@ -4,7 +4,7 @@ Original idea from the Mal Vi architect in an orl clinic
 
 See [mal-vi.com](http://www.mal-vi.com/what/orl-clinic) (this site is really not friendly ...), you can see some images on [archdaily.com](http://www.archdaily.com/187595/orl-clinic-mal-vi-architects)
 
-![source](https://github.com/aginies/projet_lamelles/blob/master/source/general_idea.jpg)
+![source](https://github.com/aginies/projet_lamelles/images/final_1.jpg)
 
 ## DONE
 
@@ -19,10 +19,10 @@ This will be done in several phases:
 1.  ~~get the data from the original idea~~
 2.  ~~tracing the curve on all lamelles (95)~~
 3.  ~~cut the oak~~
-4.  adjust and correct the curve
-5.  sanding
-6.  varnish the oak
-7.  fix them on the wall
+4.  ~~adjust and correct the curve~~
+5.  ~~sanding~~
+6.  ~~varnish the oak~~
+7.  ~~fix them on the wall~~
 
 ## Howto
 
