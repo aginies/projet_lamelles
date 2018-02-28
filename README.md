@@ -4,7 +4,7 @@ Original idea from the Mal Vi architect in an orl clinic
 
 See [mal-vi.com](http://www.mal-vi.com/what/orl-clinic) (this site is really not friendly ...), you can see some images on [archdaily.com](http://www.archdaily.com/187595/orl-clinic-mal-vi-architects)
 
-![source](https://github.com/aginies/projet_lamelles/images/final_1.jpg)
+![source](https://github.com/aginies/projet_lamelles/blob/master/images/final_1.jpg)
 
 ## DONE
 
